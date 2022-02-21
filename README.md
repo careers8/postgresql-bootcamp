@@ -1,7 +1,7 @@
 # postgresql-bootcamp
 Pierian Data PostgreSQL Bootcamp
 
-Course Website: https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668#overview
+Course Website: https://www.udemy.com/course/the-complete-sql-bootcamp/
 
 This repository contains SQL scripts and a Jupyter notebook of course assessments and challenges, with supplementary databases and PDFs. PostgreSQL queries performed using pgAdmin and psycopg2 in a Jupyter notebook environment.
 
